@@ -29,3 +29,6 @@ tThen click on Save Button to save it into the same folder where main.py is save
 
 # Save
 <img src = "https://raw.githubusercontent.com/Dhavaltharkar/Web-Scrapping/main/Screenshots/save.jpg">
+
+Output Resulted as txt file
+[Outputed Text File](https://github.com/Dhavaltharkar/Web-Scrapping/blob/main/article.txt)
