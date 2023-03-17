@@ -25,7 +25,7 @@ After putting the URL into the text box click on Target URL button a url message
 # Targeted URL
 <img src = "https://raw.githubusercontent.com/Dhavaltharkar/Web-Scrapping/main/Screenshots/target.jpg">
 
-tThen click on Save Button to save it into the same folder where main.py is saved, a file will get generated automatically with tite and parageraph text into it.
+Then click on Save Button to save it into the same folder where main.py is saved, a file will get generated automatically with tite and paragraph text into it.
 
 # Save
 <img src = "https://raw.githubusercontent.com/Dhavaltharkar/Web-Scrapping/main/Screenshots/save.jpg">
